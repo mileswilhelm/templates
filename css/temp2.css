@@ -1,0 +1,175 @@
+﻿.section.page-title, section.page-title {
+   /* background: url('../img/texture-bw.png') center center repeat;*/
+    padding: 20px 0;
+    margin-bottom: 40px;
+}
+
+.heading-left h1, .heading-left h2, .heading-left h3, .heading-left h4, .heading-left h5 {
+    display: inline-block;
+    border-left: solid 5px #38a7bb;
+    line-height: 1.1;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    vertical-align: middle;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+}
+
+.heading h1, .heading h2, .heading h3, .heading h4, .heading h5 {
+    display: inline-block;
+    border-bottom: solid 5px #38a7bb;
+    line-height: 1.1;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    vertical-align: middle;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+}
+
+section, div.section {
+    margin-bottom: 40px;
+}
+
+.bar {
+    position: relative;
+    padding: 60px 0;
+}
+
+.bar.background-image-fixed-2 {
+   /* background: url('../img/fixed-background-2.jpg') center top no-repeat; */
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.no-mb {
+    margin-bottom: 0 !important;
+}
+
+.bar.background-dark-gray {
+	background-color: #212121;
+	color: #F5F5F5;
+}
+
+.bar.background-gray {
+	background-color: #9E9E9E;
+}
+
+.bar.background-light-gray {
+	background-color: #EEEEEE;
+}
+
+.bar.background-black {
+	background-color: #000000;
+}
+
+.icon.icon-lg {
+    font-size: 30px;
+    border-width: 2px;
+}
+.icon {
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    color: #fff;
+    line-height: 80px;
+    border-radius: 40px;
+    border: solid 1px #fff;
+    font-size: 20px;
+}
+
+.nav-justified {
+    width: 100%;
+    border-bottom: solid 1px #212121;
+}
+
+.tab-content {
+    padding: 15px;
+    border: solid 1px #ddd;
+    border-top: none;
+}
+
+.btn-template-main {
+    color: #38a7bb;
+    background-color: #ffffff;
+    border-color: #38a7bb;
+}
+
+.btn-main {
+    color: #000000;
+    background-color: #ffffff;
+    border-color: #000000;
+}
+
+.btn-main:hover, .btn-main:focus, .btn-main.focus {
+    color: white;
+    background: black;
+}
+
+.btn-template-transparent-primary {
+    color: #ffffff;
+    background-color: transparent;
+    border-color: #ffffff;
+}
+
+.btn-template-transparent-black {
+    color: #ffffff;
+    background-color: transparent;
+    border-color: #ffffff;
+}
+
+.btn-template-primary {
+    color: #ffffff;
+    background-color: #38a7bb;
+    border-color: #38a7bb;
+}
+
+.btn-lg {
+    padding: 10px 16px;
+    font-size: 14px;
+    line-height: 1.33;
+    border-radius: 0;
+}
+
+.btn {
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding: 6px 12px;
+    font-size: 13px;
+    line-height: 1.42857143;
+    border-radius: 5px;
+	transition: 0.2s all ease;
+}
+
+/*
+.infobox {
+    padding: 0 30px;
+}
+
+.infobox em {
+	color: #FF5722;
+    font-size: 14px;
+}
+
+.infobox h1, .infobox h2, .infobox h3, .infobox h4, .infobox h5, .infobox h6 {
+	text-transform: uppercase;
+    font-weight: bold;	
+}
+
+.col-md-3 {
+	background: rgba(204,204,204,0.75);
+}
+
+body {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/0/0c/Nice_beach_(6369689857).jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.navbar-default {
+	border: 0px;
+	background-color: rgba(248,248,248,0.25); 
+}
+
+ */
