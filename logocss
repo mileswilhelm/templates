@@ -1,0 +1,9 @@
+.navbar-brand img {
+    max-height: 50px;
+    padding: 5px;
+    transition: 0.75s all cubic-bezier(0.68, -0.55, 0.27, 1.55);
+}
+
+.navbar-brand img:hover {
+  transform: rotate(180deg);
+}
